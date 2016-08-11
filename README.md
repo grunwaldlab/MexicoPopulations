@@ -1,5 +1,5 @@
-# MexicoPopulations
+# Mexico P. infestans populations
 
 Objectives:
 - Characterize populations from Mexico sampled in 2015, 2016 and maybe before
-- Dtermine extent of center of origin
+- Determine extent of center of origin
